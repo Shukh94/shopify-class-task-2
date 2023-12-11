@@ -56,7 +56,7 @@ header {
 
 .hero-section {
   background-color: aliceblue;
-  height: 600px;
+  /* height: 600px; */
   position: relative;
 }
 
@@ -64,7 +64,7 @@ header {
   display: flex;
   justify-content: space-between;
   width: 1200px;
-  height: 80%;
+  /* height: 80%; */
   margin: auto;
   padding: 50px;
 }
@@ -123,10 +123,10 @@ header {
 
 .about-content {
   background-color: #fff;
-  width: 900px;
-  margin: auto;
+  /* width: 900px; */
+  /* margin: auto; */
   padding: 50px;
-  border-radius: 20px;
+  /* border-radius: 20px; */
 }
 
 .about-content h1 {
